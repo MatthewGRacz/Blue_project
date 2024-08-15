@@ -19,6 +19,6 @@ Collagen Masks:
 
 Trichrome 1: 5.93948% Collagen
 
-Trichrome 2: 1.33615% Collagen
+Trichrome 2: 7.28717% Collagen
 
 Trichrome 3: 1.82669% Collagen
