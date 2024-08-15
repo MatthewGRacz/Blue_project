@@ -17,8 +17,8 @@ Collagen Masks:
 ![trichrome3 collagen mask](https://github.com/user-attachments/assets/576908c8-b8c0-4932-a58b-6231994db59a)
 
 
-Trichrome 1: 1.33615% Collagen
+Trichrome 1: 5.93948% Collagen
 
-Trichrome 2: 5.93948% Collagen
+Trichrome 2: 1.33615% Collagen
 
 Trichrome 3: 1.82669% Collagen
